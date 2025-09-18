@@ -69,7 +69,12 @@ plt.savefig("pair_grid.png", dpi=300, bbox_inches="tight")
 # add legend
 graph.add_legend()
 plt.show()
+
 ```
+### 🔹 PairGrid (Penguins Dataset)  
+📌 Output:  
+![PairGrid Example](pair_grid.png) 
+
 ## 👤 Author  
 **Purvesh**  
 📍 Exploring Data Science step by step!  
